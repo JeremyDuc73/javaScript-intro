@@ -1,3 +1,13 @@
 .rouge{
     color: red;
+    text-transform:uppercase;
+}
+
+.bleu{
+    color: blue;
+    text-transform: uppercase;
+}
+
+p{
+    font-size: 30px;
 }
